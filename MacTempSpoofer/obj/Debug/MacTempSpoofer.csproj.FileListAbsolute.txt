@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\bin\Debug\MacTempSpoofer.exe.config
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\bin\Debug\MacTempSpoofer.exe
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\bin\Debug\MacTempSpoofer.pdb
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\MacTempSpoofer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\MacTempSpoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\MacTempSpoofer.Form1.resources
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\MacTempSpoofer.Properties.Resources.resources
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\MacTempSpoofer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\MacTempSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\MacTempSpoofer.exe
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\MacTempSpoofer.pdb
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\MacTempSpoofer.ResultDialog.resources
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\User\source\repos\MacTempSpoofer\MacTempSpoofer\obj\Debug\MacTempSpoofer.csproj.ResolveComReference.cache
